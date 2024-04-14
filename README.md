@@ -21,3 +21,6 @@ Observation: Upon examining the results, it's noted that the time taken decrease
 # Results
 Threads	(T=1)	(T=2)	(T=3)	(T=4)	(T=5)	[T=6]	(T=7)	(T=8)
 Time taken (sec)	1.5454	1.1298	1.2076	1.1918	1.0669	1.1917	1.1288	1.1922
+
+![image](https://github.com/akshit2605/Multithreading/assets/100219639/a2be96d9-5c17-46fe-a4e9-d138f26da23f)
+The time taken is minimum when the number of threads is 5.
